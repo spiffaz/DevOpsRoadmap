@@ -14,7 +14,7 @@ Below are the different learning points. In the folders are urls where you can l
 7)   Containers
 8)   Networking and basic security protocols
 9)   Container orchestration
-10)   Web servers
+10)  Web servers
 11)  Configuration management
 12)  CI/CD
 13)  Application monitoring
