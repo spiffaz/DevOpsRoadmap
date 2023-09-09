@@ -32,5 +32,5 @@ Below are the different learning points. In the folders are urls where you can l
 5)   Programming and Git for Devops
 6)   Cloud computing (AWS)
 7)   Infrastrucrure as Code in Devops (Terraform and Ansible)
-8)   CI/CD pipeline in Devops (Jenkins)
+8)   CI/CD (Jenkins)
 9)   Containerization (Docker and Kubernetes)
