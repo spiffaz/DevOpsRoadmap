@@ -6,6 +6,7 @@
 - [Git vs. GitHub: What's the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
 - [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Go deeper
