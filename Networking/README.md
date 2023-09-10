@@ -1,4 +1,4 @@
-## Netwirking
+## Networking
 - [The 20% of networking you'll use 80% of the time: Networking tips for DevOps](https://www.youtube.com/watch?v=gyXfooY7MqU)
 - [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 - [TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-model/)
